@@ -1,2 +1,0 @@
-bsdacademy.github.io
-====================
